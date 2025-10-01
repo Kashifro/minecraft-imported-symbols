@@ -73,6 +73,7 @@ static const char* glesv2_symbols[] = {
         "glGetShaderPrecisionFormat",
         "glGetShaderSource",
         "glGetString",
+        "glGetStringi",
         "glGetTexParameterfv",
         "glGetTexParameteriv",
         "glGetUniformfv",
